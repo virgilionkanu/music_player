@@ -22,4 +22,8 @@
       font-size: 0.7rem;
     }
   }
+
+  &.selected {
+    background: rgb(145, 165, 218);
+  }
 }
