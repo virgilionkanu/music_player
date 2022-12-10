@@ -64,3 +64,15 @@
     }
   }
 }
+
+@media screen and (max-width: 768px) {
+  .player {
+    .time-control {
+      width: 90%;
+    }
+
+    .play-control {
+      width: 60%;
+    }
+  }
+}
