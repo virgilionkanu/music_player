@@ -47,6 +47,12 @@
       width: 16px;
     }
 
+    input[type='range']::-moz-range-thumb {
+      -webkit-appearance: none;
+      background: transparent;
+      border: none;
+    }
+
     p {
       padding: 1rem;
     }
